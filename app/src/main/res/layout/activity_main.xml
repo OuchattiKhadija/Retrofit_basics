@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="test1" />
+
+    <TextView
+        android:id="@+id/title_tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="test2" />
+
+    <TextView
+        android:id="@+id/title_tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="test3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test Post Function" />
+
+    <TextView
+        android:id="@+id/title_tv4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="test4" />
+    <TextView
+        android:id="@+id/title_tv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="test5" />
+
+</LinearLayout>
